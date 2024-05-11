@@ -1,0 +1,1 @@
+This is a simple Hangman game implemented in Python. It allows users to play the classic word-guessing game in the terminal.
